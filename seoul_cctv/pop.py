@@ -7,5 +7,5 @@ csv = ctx +'01. CCTV_in_Seoul.csv'
 pop_data = pd.read_excel(xls)
 cctv_data = pd.read_csv(csv)
 
-print(cctv_data.head())
-print(pop_data.head())
+print(cctv_data.head(9))
+print(pop_data.head(9))
