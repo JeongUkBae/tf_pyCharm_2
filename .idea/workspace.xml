@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5d29003-cb50-468b-b296-dc59d7b98ef3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rnn_basic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rnn_basic/mnist_real.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rnn_basic/mnist_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensor_lect/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensor_lect/gradient_descent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tensor_lect/tensor_basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e5d29003-cb50-468b-b296-dc59d7b98ef3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +31,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/rnn_basic/mnist_real.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="343">
-                  <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+                <state relative-caret-position="433">
+                  <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
                   <folding>
                     <element signature="e#0#23#0" expanded="true" />
                   </folding>
@@ -310,12 +301,12 @@
       <workItem from="1554796918351" duration="3587000" />
       <workItem from="1554856806034" duration="24856000" />
       <workItem from="1554945200921" duration="52000" />
-      <workItem from="1554946748085" duration="14095000" />
+      <workItem from="1554946748085" duration="14190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60781000" />
+    <option name="totallyTimeSpent" value="60876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1616" height="916" extended-state="6" />
@@ -623,8 +614,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rnn_basic/mnist_real.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        <state relative-caret-position="433">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
